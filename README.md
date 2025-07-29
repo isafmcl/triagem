@@ -23,9 +23,6 @@ Este projeto consiste em um formulário web para triagem hospitalar, desenvolvid
 3. Aceite os termos marcando o checkbox.
 4. Clique em "Enviar" para submeter o formulário.
 
-## Personalização
-
-Você pode modificar os estilos no arquivo `style.css` para alterar cores, fontes e layout conforme sua necessidade.
 
 ## Considerações Finais
 
