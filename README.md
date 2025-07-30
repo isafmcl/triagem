@@ -6,7 +6,7 @@ Este projeto consiste em um formulário web para triagem hospitalar, desenvolvid
 
 - `index.html`: Arquivo principal contendo o formulário de triagem. O formulário está estruturado para ser acessível e responsivo, utilizando classes do Bootstrap e validação nativa do HTML5 com feedback visual.
 - `style.css`: Arquivo de estilos customizados para complementar o Bootstrap, melhorando a aparência do formulário com cores, espaçamentos e efeitos visuais.
-- `segunda.html`: Página de destino após o envio do formulário (não incluída neste projeto).
+- `segunda.html`: Página de destino após o envio do formulário 
 
 ## Funcionalidades
 
