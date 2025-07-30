@@ -1,6 +1,6 @@
 # Formulário de Triagem Hospitalar
 
-Este projeto consiste em um formulário web para triagem hospitalar, desenvolvido com HTML, CSS e Bootstrap. O objetivo é fornecer uma interface simples, modularizada e estilizada para coleta de informações importantes dos pacientes.
+Este projeto consiste em um formulário web simples para triagem hospitalar, desenvolvido com HTML, CSS e Bootstrap. O objetivo é fornecer uma interface simples, modularizada e estilizada para coleta de informações importantes dos pacientes.
 
 ## Estrutura do Projeto
 
